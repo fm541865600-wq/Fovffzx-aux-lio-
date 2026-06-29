@@ -1,2 +1,56 @@
-# Fovffzx-aux-lio-
-https://discord.gg/RdkTZc5Wp
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fovffzx • SUVFFZX</title>
+  <meta name="description" content="Pacotes, sensibilidades e otimizações seguras para Free Fire — sem risco de bloqueio">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif; }
+    body { background-color: #121217; color: #f1f1f1; padding: 1rem; max-width: 900px; margin: 0 auto; }
+    .cabecalho { text-align: center; margin-bottom: 2rem; padding: 1.2rem; background:#1e1e26; border-radius:10px; }
+    h1 { color:#4facff; font-size:1.6rem; margin-bottom:0.3rem; }
+    .caixa { background:#1e1e26; border-radius:10px; padding:1.2rem; margin-bottom:1rem; }
+    h3 { color:#72c0ff; margin-bottom:0.6rem; font-size:1.1rem; }
+    ul { list-style:none; line-height:1.6; }
+    li::before { content:"✓ "; color:#40e080; }
+    .aviso { background:#272018; border:1px solid #f09a3650; border-radius:8px; padding:0.8rem; text-align:center; font-size:0.9rem; margin:1rem 0; }
+    .contato { text-align:center; margin-top:1.5rem; color:#aaa; font-size:0.9rem; }
+    a { color:#4facff; text-decoration:none; }
+  </style>
+</head>
+<body>
+  <div class="cabecalho">
+    <h1>FOVFFZX • SUVFFZX</h1>
+    <p>Pacotes e ajustes seguros para Free Fire</p>
+  </div>
+
+  <div class="caixa">
+    <h3>O que temos</h3>
+    <ul>
+      <li>Sensibilidades prontas por modelo de celular</li>
+      <li>Otimizações de fluidez e rede</li>
+      <li>Ajustes de FPS e desempenho</li>
+      <li>Vídeos explicativos</li>
+      <li>Tutoriais passo‑a‑passo</li>
+    </ul>
+  </div>
+
+  <div class="aviso">
+    ✅ Tudo dentro das regras — sem trapaça, sem risco de bloqueio
+  </div>
+
+  <div class="caixa">
+    <h3>Parcerias e Atendimento</h3>
+    <p>Entrar no grupo oficial:</p>
+    <p style="margin-top:0.5rem; font‑weight:bold;">
+      <a href="https://discord.gg/RdkTZc5Wp">discord.gg/RdkTZc5Wp</a>
+    </p>
+  </div>
+
+  <div class="contato">
+    Fovffzx — Qualidade e segurança
+  </div>
+</body>
+</html>
+
